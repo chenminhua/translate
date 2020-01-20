@@ -1,0 +1,3 @@
+hello
+hello world
+We recommend that you call this service using Google-provided client libraries.
